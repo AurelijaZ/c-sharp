@@ -1,0 +1,5 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure ex- array\Data Structure ex- array\bin\Debug\Data Structure ex- array.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure ex- array\Data Structure ex- array\bin\Debug\Data Structure ex- array.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure ex- array\Data Structure ex- array\bin\Debug\Data Structure ex- array.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure ex- array\Data Structure ex- array\obj\Debug\Data Structure ex- array.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure ex- array\Data Structure ex- array\obj\Debug\Data Structure ex- array.pdb

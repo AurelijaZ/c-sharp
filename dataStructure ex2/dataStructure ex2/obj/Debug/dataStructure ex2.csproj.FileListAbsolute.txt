@@ -1,0 +1,5 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\dataStructure ex2\dataStructure ex2\bin\Debug\dataStructure ex2.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\dataStructure ex2\dataStructure ex2\bin\Debug\dataStructure ex2.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\dataStructure ex2\dataStructure ex2\bin\Debug\dataStructure ex2.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\dataStructure ex2\dataStructure ex2\obj\Debug\dataStructure ex2.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\dataStructure ex2\dataStructure ex2\obj\Debug\dataStructure ex2.pdb

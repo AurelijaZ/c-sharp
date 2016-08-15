@@ -1,0 +1,5 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\nextPresident\nextPresident\bin\Debug\nextPresident.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\nextPresident\nextPresident\bin\Debug\nextPresident.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\nextPresident\nextPresident\bin\Debug\nextPresident.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\nextPresident\nextPresident\obj\Debug\nextPresident.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\nextPresident\nextPresident\obj\Debug\nextPresident.pdb

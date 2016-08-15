@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\bin\Debug\snow white ex.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\bin\Debug\snow white ex.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\bin\Debug\snow white ex.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\obj\Debug\snow white ex.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\obj\Debug\snow white ex.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\snow white ex\snow white ex\obj\Debug\snow white ex.pdb

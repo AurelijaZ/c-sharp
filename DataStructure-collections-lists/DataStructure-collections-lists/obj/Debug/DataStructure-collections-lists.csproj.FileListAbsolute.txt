@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\bin\Debug\DataStructure-collections-lists.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\bin\Debug\DataStructure-collections-lists.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\bin\Debug\DataStructure-collections-lists.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\obj\Debug\DataStructure-collections-lists.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\obj\Debug\DataStructure-collections-lists.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\DataStructure-collections-lists\DataStructure-collections-lists\obj\Debug\DataStructure-collections-lists.csprojResolveAssemblyReference.cache
