@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\bin\Debug\methods-exercise-non static.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\obj\Debug\methods-exercise-non static.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\bin\Debug\methods-exercise-non static.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\bin\Debug\methods-exercise-non static.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\obj\Debug\methods-exercise-non static.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\methods-exercise-non static\methods-exercise-non static\obj\Debug\methods-exercise-non static.pdb

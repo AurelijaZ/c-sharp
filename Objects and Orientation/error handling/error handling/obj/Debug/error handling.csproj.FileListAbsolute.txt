@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\bin\Debug\error handling.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\bin\Debug\error handling.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\bin\Debug\error handling.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\obj\Debug\error handling.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\obj\Debug\error handling.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\error handling\error handling\obj\Debug\error handling.pdb

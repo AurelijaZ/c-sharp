@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\bin\Debug\classes, objects and properties exer.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\obj\Debug\classes, objects and properties exer.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\obj\Debug\classes, objects and properties exer.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\obj\Debug\classes, objects and properties exer.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\bin\Debug\classes, objects and properties exer.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\classes, objects and properties exer\classes, objects and properties exer\bin\Debug\classes, objects and properties exer.pdb
