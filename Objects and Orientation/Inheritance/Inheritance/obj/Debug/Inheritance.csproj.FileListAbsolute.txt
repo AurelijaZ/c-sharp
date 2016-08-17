@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

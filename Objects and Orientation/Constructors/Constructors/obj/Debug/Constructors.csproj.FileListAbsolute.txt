@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Constructors\Constructors\obj\Debug\Constructors.pdb

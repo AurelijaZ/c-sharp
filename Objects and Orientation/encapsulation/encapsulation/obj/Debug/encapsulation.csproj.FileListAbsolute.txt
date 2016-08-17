@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\obj\Debug\encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
