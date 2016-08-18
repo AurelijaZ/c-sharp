@@ -12,20 +12,23 @@ namespace encapsulation
         public decimal price;
         public decimal cost;
 
-        public void addMeal(string name, decimal price, decimal cost)
+        //changed from public void meal to just public meal, so it connects with the menu
+        public Meal(string name, decimal price, decimal cost)
         {
             this.name = name;
             this.price = price;
             this.cost = cost;
+
         }
 
         public static decimal cookMeal(Meal meal, decimal balance)
         {
             Console.WriteLine("The meal {0} has been cooked.", meal.name);
-            balance = balance + meal.price;
-            balance = balance - meal.cost;
+            // balance = balance + meal.price;
+            // balance = balance - meal.cost;
 
-            return balance;
+            // return balance;
+            //only do the cooking, no balance 
         }
     }
 
@@ -39,7 +42,9 @@ namespace encapsulation
     //create private balance
     class Balance
     {
-        static void getBalance(decimal price, decimal cost)
+        private static decimal _balance_ = 0;
+
+        public static void getBalance(decimal meal)
         {
             decimal balance = 0;
             Console.WriteLine("Tonight in the restaurant, we made £{0:N2}.", balance);
@@ -55,14 +60,11 @@ namespace encapsulation
         decimal balance = 0;
 
         //add some meals data
-        Meal steak = new Meal();
-        steak.addMeal("steak", 20.00M, 5.00M);
+        Meal steak = new Meal("Steak", 20.00M, 5.00M);
+            Balance.getBalance(steak);
+        Meal fajitas = new Meal("Fajitas", 12.00M, 2.00M);
+        Meal pumpkinRisotto = new Meal("Pumpkin Risotto", 10.00M, 1.00M);
 
-        Meal fajitas = new Meal();
-        fajitas.addMeal("fajitas", 12.00M, 2.00M);
-
-        Meal pumpkinRisotto = new Meal();
-        pumpkinRisotto.addMeal("pumpkinRisotto", 10.00M, 1.00M);
 
         Order order1 = new Order();
         order1.takeOrder(steak);

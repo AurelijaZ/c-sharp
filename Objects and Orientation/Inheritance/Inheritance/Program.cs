@@ -126,7 +126,6 @@ namespace Inheritance
             List<Vehicle> vehicles = new List<Vehicle>();
             Car car1 = new Car("Volkswagen ", "The Beetle ", 13500);
             vehicles.Add(car1);
-
             Car car2 = new Car("Mazda ", " MX5 ", 18450);
             vehicles.Add(car2);
             Car car3 = new Car("Audi ", " A1 ", 14530);

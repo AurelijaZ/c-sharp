@@ -1,0 +1,9 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\bin\Debug\1st demo form.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\bin\Debug\1st demo form.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\bin\Debug\1st demo form.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\1st demo form.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\_1st_demo_form.Form1.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\_1st_demo_form.Properties.Resources.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\1st demo form.csproj.GenerateResource.Cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\1st demo form.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\1st demo form\1st demo form\obj\Debug\1st demo form.pdb

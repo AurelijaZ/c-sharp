@@ -1,0 +1,10 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\bin\Debug\3rd demo- dialog.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\bin\Debug\3rd demo- dialog.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\bin\Debug\3rd demo- dialog.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\3rd demo- dialog.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\_3rd_demo__dialog.Form1.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\_3rd_demo__dialog.Properties.Resources.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\3rd demo- dialog.csproj.GenerateResource.Cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\3rd demo- dialog.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\3rd demo- dialog.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\3rd demo- dialog\3rd demo- dialog\obj\Debug\_3rd_demo__dialog.Form2.resources

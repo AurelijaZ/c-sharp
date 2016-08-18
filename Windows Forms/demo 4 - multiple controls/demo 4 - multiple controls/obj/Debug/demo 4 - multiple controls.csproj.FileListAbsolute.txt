@@ -1,0 +1,8 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\bin\Debug\demo 4 - multiple controls.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\bin\Debug\demo 4 - multiple controls.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\bin\Debug\demo 4 - multiple controls.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\obj\Debug\demo_4___multiple_controls.Form1.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\obj\Debug\demo_4___multiple_controls.Properties.Resources.resources
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\obj\Debug\demo 4 - multiple controls.csproj.GenerateResource.Cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\obj\Debug\demo 4 - multiple controls.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\demo 4 - multiple controls\demo 4 - multiple controls\obj\Debug\demo 4 - multiple controls.pdb
