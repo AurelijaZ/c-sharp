@@ -1,0 +1,6 @@
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\bin\Debug\Assessment - book list new.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\obj\Debug\Assessment - book list new.csprojResolveAssemblyReference.cache
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\bin\Debug\Assessment - book list new.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\bin\Debug\Assessment - book list new.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\obj\Debug\Assessment - book list new.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Windows Forms\Assessment - book list new\Assessment - book list new\obj\Debug\Assessment - book list new.pdb

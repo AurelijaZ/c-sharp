@@ -4,3 +4,6 @@ C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure- dictionarie
 C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure- dictionaries\Data Structure- dictionaries\obj\Debug\Data Structure- dictionaries.csprojResolveAssemblyReference.cache
 C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure- dictionaries\Data Structure- dictionaries\obj\Debug\Data Structure- dictionaries.exe
 C:\Users\student\Aurelija Zubaviciute\GitHub\C sharp\Data Structure- dictionaries\Data Structure- dictionaries\obj\Debug\Data Structure- dictionaries.pdb
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Data Structure- dictionaries\Data Structure- dictionaries\bin\Debug\Data Structure- dictionaries.exe.config
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Data Structure- dictionaries\Data Structure- dictionaries\obj\Debug\Data Structure- dictionaries.exe
+C:\Users\student\Aurelija Zubaviciute\GitHub\c-sharp\Objects and Orientation\Data Structure- dictionaries\Data Structure- dictionaries\obj\Debug\Data Structure- dictionaries.pdb
